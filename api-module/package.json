@@ -1,10 +1,10 @@
 {
-  "name": "@bass22/automation",
+  "name": "api-module",
   "version": "0.0.0",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
-    "name": "automation",
+    "name": "api-module",
     "triples": {
       "additional": [
         "aarch64-apple-darwin"

@@ -1,5 +1,5 @@
 {
-  "name": "@bass22/automation-win32-x64-msvc",
+  "name": "api-module-win32-x64-msvc",
   "version": "0.0.0",
   "os": [
     "win32"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "automation.win32-x64-msvc.node",
+  "main": "api-module.win32-x64-msvc.node",
   "files": [
-    "automation.win32-x64-msvc.node"
+    "api-module.win32-x64-msvc.node"
   ],
   "license": "MIT",
   "engines": {

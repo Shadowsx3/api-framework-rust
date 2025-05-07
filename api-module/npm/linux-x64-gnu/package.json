@@ -1,5 +1,5 @@
 {
-  "name": "@bass22/automation-linux-x64-gnu",
+  "name": "api-module-linux-x64-gnu",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "automation.linux-x64-gnu.node",
+  "main": "api-module.linux-x64-gnu.node",
   "files": [
-    "automation.linux-x64-gnu.node"
+    "api-module.linux-x64-gnu.node"
   ],
   "license": "MIT",
   "engines": {

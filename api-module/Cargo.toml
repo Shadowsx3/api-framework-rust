@@ -1,6 +1,6 @@
 [package]
 edition = "2021"
-name = "bass22_automation"
+name = "api-module"
 version = "0.0.0"
 
 [lib]
