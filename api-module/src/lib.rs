@@ -1,9 +1,10 @@
 #![deny(clippy::all)]
 
-#[macro_use]
 extern crate napi_derive;
 
-#[napi]
-pub fn sum(a: i32, b: i32) -> i32 {
-  a + b
-}
+mod base;
+mod models;
+mod services;
+
+pub use services::booking_service::BookingService;
+pub use models::request::booking_model::BookingModel;
